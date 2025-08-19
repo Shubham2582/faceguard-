@@ -1,0 +1,47 @@
+[
+  {
+    "image": "Shah Rukh Khan_1.jpg",
+    "person": "Shah Rukh Khan",
+    "bbox": [
+      591.720947265625,
+      538.2009887695312,
+      1085.8031005859375,
+      1156.958740234375
+    ],
+    "embedding_shape": [
+      512
+    ],
+    "embedding_norm": 24.329225540161133,
+    "has_landmarks": true
+  },
+  {
+    "image": "Virat Kohli_1.jpg",
+    "person": "Virat Kohli",
+    "bbox": [
+      339.04925537109375,
+      78.80155944824219,
+      649.5818481445312,
+      495.8088684082031
+    ],
+    "embedding_shape": [
+      512
+    ],
+    "embedding_norm": 22.03875732421875,
+    "has_landmarks": true
+  },
+  {
+    "image": "WhatsApp Image 2025-03-08 at 15.36.16_ce3eb692.jpg",
+    "person": "mayank",
+    "bbox": [
+      518.3515625,
+      1847.9151611328125,
+      1516.425048828125,
+      3072.27099609375
+    ],
+    "embedding_shape": [
+      512
+    ],
+    "embedding_norm": 22.95416259765625,
+    "has_landmarks": true
+  }
+]
