@@ -1,0 +1,2169 @@
+{
+  "metadata": {
+    "created_at": 1754246182.0378873,
+    "created_date": "2025-08-04 00:06:22",
+    "source_directory": "F:/faceguard/data/known_faces",
+    "version": "1.0.0"
+  },
+  "persons": {
+    "Aamir Khan": {
+      "person_id": "aamir_khan",
+      "display_name": "Aamir Khan",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Aamir Khan\\Aamir Khan_1.jpg",
+          "filename": "Aamir Khan_1.jpg",
+          "size_bytes": 139055,
+          "size_mb": 0.13,
+          "modified_time": 1741435814.0105505,
+          "file_hash": "bc62c09c28f831117c01c2d7592dd72c",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Aamir Khan\\Aamir Khan_2.jpg",
+          "filename": "Aamir Khan_2.jpg",
+          "size_bytes": 100136,
+          "size_mb": 0.1,
+          "modified_time": 1741435815.1581862,
+          "file_hash": "9cb4df88c8a45720137ed88e6dc0e985",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Aamir Khan\\Aamir Khan_3.jpg",
+          "filename": "Aamir Khan_3.jpg",
+          "size_bytes": 106610,
+          "size_mb": 0.1,
+          "modified_time": 1741435816.4332461,
+          "file_hash": "652b2c032c7193a511f3becb6bfae4da",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.33,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Aishwarya Rai": {
+      "person_id": "aishwarya_rai",
+      "display_name": "Aishwarya Rai",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Aishwarya Rai\\Aishwarya Rai_1.jpg",
+          "filename": "Aishwarya Rai_1.jpg",
+          "size_bytes": 494595,
+          "size_mb": 0.47,
+          "modified_time": 1741435836.5576313,
+          "file_hash": "c4afe0bcdf6921f4e25da4258d673554",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Aishwarya Rai\\Aishwarya Rai_2.jpg",
+          "filename": "Aishwarya Rai_2.jpg",
+          "size_bytes": 79600,
+          "size_mb": 0.08,
+          "modified_time": 1741435837.706839,
+          "file_hash": "7072be78f91a49bbe39c3b58cf76717d",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Aishwarya Rai\\Aishwarya Rai_3.jpeg",
+          "filename": "Aishwarya Rai_3.jpeg",
+          "size_bytes": 200969,
+          "size_mb": 0.19,
+          "modified_time": 1741435838.8844202,
+          "file_hash": "44ec6ca2506eebf5fe9885a6e3cea694",
+          "format": "jpeg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.74,
+        "formats": [
+          "jpg",
+          "jpeg"
+        ]
+      }
+    },
+    "Ajay Devgn": {
+      "person_id": "ajay_devgn",
+      "display_name": "Ajay Devgn",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Ajay Devgn\\Ajay Devgn_1.jpeg",
+          "filename": "Ajay Devgn_1.jpeg",
+          "size_bytes": 161812,
+          "size_mb": 0.15,
+          "modified_time": 1741435852.151547,
+          "file_hash": "b0f75136a414610d6495e9cf352d1731",
+          "format": "jpeg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Ajay Devgn\\Ajay Devgn_2.png",
+          "filename": "Ajay Devgn_2.png",
+          "size_bytes": 778341,
+          "size_mb": 0.74,
+          "modified_time": 1741435853.9426997,
+          "file_hash": "af9f886e99e96585cdd48b7ed194c01d",
+          "format": "png"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Ajay Devgn\\Ajay Devgn_3.jpg",
+          "filename": "Ajay Devgn_3.jpg",
+          "size_bytes": 560626,
+          "size_mb": 0.53,
+          "modified_time": 1741435855.8360848,
+          "file_hash": "4535d5c58655a82d91736a6f5154e3b4",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 1.42,
+        "formats": [
+          "jpg",
+          "png",
+          "jpeg"
+        ]
+      }
+    },
+    "Akshay Kumar": {
+      "person_id": "akshay_kumar",
+      "display_name": "Akshay Kumar",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Akshay Kumar\\Akshay Kumar_1.jpg",
+          "filename": "Akshay Kumar_1.jpg",
+          "size_bytes": 119877,
+          "size_mb": 0.11,
+          "modified_time": 1741435824.886145,
+          "file_hash": "a1b6c7d23284e32d1994698da78f4a35",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Akshay Kumar\\Akshay Kumar_2.jpg",
+          "filename": "Akshay Kumar_2.jpg",
+          "size_bytes": 117756,
+          "size_mb": 0.11,
+          "modified_time": 1741435826.71513,
+          "file_hash": "8498b693a7ba691393122a19d44fe51d",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Akshay Kumar\\Akshay Kumar_3.jpg",
+          "filename": "Akshay Kumar_3.jpg",
+          "size_bytes": 79756,
+          "size_mb": 0.08,
+          "modified_time": 1741435828.7948203,
+          "file_hash": "39574c0815bb6f42809457b68713f10f",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.3,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Alia Bhatt": {
+      "person_id": "alia_bhatt",
+      "display_name": "Alia Bhatt",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Alia Bhatt\\Alia Bhatt_1.jpg",
+          "filename": "Alia Bhatt_1.jpg",
+          "size_bytes": 23227,
+          "size_mb": 0.02,
+          "modified_time": 1741435819.6901183,
+          "file_hash": "3d61e4b698a607199fb35113eb629213",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Alia Bhatt\\Alia Bhatt_2.jpg",
+          "filename": "Alia Bhatt_2.jpg",
+          "size_bytes": 139587,
+          "size_mb": 0.13,
+          "modified_time": 1741435821.1319013,
+          "file_hash": "5dd07350ae241f510597c76ace5be718",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Alia Bhatt\\Alia Bhatt_3.jpg",
+          "filename": "Alia Bhatt_3.jpg",
+          "size_bytes": 86001,
+          "size_mb": 0.08,
+          "modified_time": 1741435823.5813842,
+          "file_hash": "3f9d47959b96381411f18a2ca3887c2b",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.23,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Allu Arjun": {
+      "person_id": "allu_arjun",
+      "display_name": "Allu Arjun",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Allu Arjun\\Allu Arjun_1.jpg",
+          "filename": "Allu Arjun_1.jpg",
+          "size_bytes": 172061,
+          "size_mb": 0.16,
+          "modified_time": 1741435840.2406175,
+          "file_hash": "37db81471404d0227d886a5b718c07ac",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Allu Arjun\\Allu Arjun_2.jpg",
+          "filename": "Allu Arjun_2.jpg",
+          "size_bytes": 32576,
+          "size_mb": 0.03,
+          "modified_time": 1741435841.516227,
+          "file_hash": "177c7a7dcb0faa8ef007a77c93641511",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Allu Arjun\\Allu Arjun_3.jpg",
+          "filename": "Allu Arjun_3.jpg",
+          "size_bytes": 159391,
+          "size_mb": 0.15,
+          "modified_time": 1741435843.0768342,
+          "file_hash": "e0089739a122e93911ad52ee140b0030",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.34,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Amit Shah": {
+      "person_id": "amit_shah",
+      "display_name": "Amit Shah",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Amit Shah\\Amit Shah_1.jpg",
+          "filename": "Amit Shah_1.jpg",
+          "size_bytes": 433348,
+          "size_mb": 0.41,
+          "modified_time": 1741435869.2272897,
+          "file_hash": "4bf3f19e7d6a1e08c7e50a3046dceebb",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Amit Shah\\Amit Shah_2.jpg",
+          "filename": "Amit Shah_2.jpg",
+          "size_bytes": 326802,
+          "size_mb": 0.31,
+          "modified_time": 1741435871.0308158,
+          "file_hash": "cf41d1e19cf6429e6d55650d32125b2f",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Amit Shah\\Amit Shah_3.jpg",
+          "filename": "Amit Shah_3.jpg",
+          "size_bytes": 60678,
+          "size_mb": 0.06,
+          "modified_time": 1741435872.475297,
+          "file_hash": "d2b75d9b28b856a76c34b91be7d51cfa",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.78,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Amitabh Bachchan": {
+      "person_id": "amitabh_bachchan",
+      "display_name": "Amitabh Bachchan",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Amitabh Bachchan\\Amitabh Bachchan_1.jpg",
+          "filename": "Amitabh Bachchan_1.jpg",
+          "size_bytes": 321182,
+          "size_mb": 0.31,
+          "modified_time": 1741435813.709596,
+          "file_hash": "6861384df6e716d8a7e0aed93e775204",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Amitabh Bachchan\\Amitabh Bachchan_2.jpg",
+          "filename": "Amitabh Bachchan_2.jpg",
+          "size_bytes": 55025,
+          "size_mb": 0.05,
+          "modified_time": 1741435816.0398066,
+          "file_hash": "7675606383047fd3b4fd2dd192d17e24",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Amitabh Bachchan\\Amitabh Bachchan_3.jpg",
+          "filename": "Amitabh Bachchan_3.jpg",
+          "size_bytes": 160731,
+          "size_mb": 0.15,
+          "modified_time": 1741435817.3990052,
+          "file_hash": "02760031ba7b597758769204c6f9b130",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.51,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Anushka Sharma": {
+      "person_id": "anushka_sharma",
+      "display_name": "Anushka Sharma",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Anushka Sharma\\Anushka Sharma_1.jpg",
+          "filename": "Anushka Sharma_1.jpg",
+          "size_bytes": 166442,
+          "size_mb": 0.16,
+          "modified_time": 1741435845.097011,
+          "file_hash": "81a3120b1569385c7e8383966b5f29c8",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Anushka Sharma\\Anushka Sharma_2.jpg",
+          "filename": "Anushka Sharma_2.jpg",
+          "size_bytes": 40494,
+          "size_mb": 0.04,
+          "modified_time": 1741435846.4331646,
+          "file_hash": "50480773390217fe9aa275c7e82dc45b",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Anushka Sharma\\Anushka Sharma_3.jpg",
+          "filename": "Anushka Sharma_3.jpg",
+          "size_bytes": 21062,
+          "size_mb": 0.02,
+          "modified_time": 1741435847.7173965,
+          "file_hash": "bc38ebfc645dfb879950dfa940cb1ad9",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.22,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Arvind Kejriwal": {
+      "person_id": "arvind_kejriwal",
+      "display_name": "Arvind Kejriwal",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Arvind Kejriwal\\Arvind Kejriwal_1.jpg",
+          "filename": "Arvind Kejriwal_1.jpg",
+          "size_bytes": 91995,
+          "size_mb": 0.09,
+          "modified_time": 1741435869.4365315,
+          "file_hash": "a1e401d5a49c90f97b4ce12e5388d5b7",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Arvind Kejriwal\\Arvind Kejriwal_2.jpg",
+          "filename": "Arvind Kejriwal_2.jpg",
+          "size_bytes": 180716,
+          "size_mb": 0.17,
+          "modified_time": 1741435870.779889,
+          "file_hash": "646dd2daaa0709557aeb2c784666707d",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Arvind Kejriwal\\Arvind Kejriwal_3.jpg",
+          "filename": "Arvind Kejriwal_3.jpg",
+          "size_bytes": 113502,
+          "size_mb": 0.11,
+          "modified_time": 1741435872.4005961,
+          "file_hash": "8155891dda5cb2a68279a8785c0334eb",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.37,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Ayushmann Khurrana": {
+      "person_id": "ayushmann_khurrana",
+      "display_name": "Ayushmann Khurrana",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Ayushmann Khurrana\\Ayushmann Khurrana_1.jpg",
+          "filename": "Ayushmann Khurrana_1.jpg",
+          "size_bytes": 47607,
+          "size_mb": 0.05,
+          "modified_time": 1741435876.44053,
+          "file_hash": "f6463adfdb3649387a70bc269c0e9b00",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Ayushmann Khurrana\\Ayushmann Khurrana_2.jpg",
+          "filename": "Ayushmann Khurrana_2.jpg",
+          "size_bytes": 73005,
+          "size_mb": 0.07,
+          "modified_time": 1741435878.942768,
+          "file_hash": "a4213b8c37fb52c0bc4b7b0038a10a46",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Ayushmann Khurrana\\Ayushmann Khurrana_3.jpg",
+          "filename": "Ayushmann Khurrana_3.jpg",
+          "size_bytes": 27261,
+          "size_mb": 0.03,
+          "modified_time": 1741435880.5222921,
+          "file_hash": "50baa11fa76d396d701b71562d4b170c",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.15,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Deepika Padukone": {
+      "person_id": "deepika_padukone",
+      "display_name": "Deepika Padukone",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Deepika Padukone\\Deepika Padukone_1.jpeg",
+          "filename": "Deepika Padukone_1.jpeg",
+          "size_bytes": 659849,
+          "size_mb": 0.63,
+          "modified_time": 1741435813.8457859,
+          "file_hash": "2d92cd7de82cf58a6be7107df29524b4",
+          "format": "jpeg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Deepika Padukone\\Deepika Padukone_2.jpg",
+          "filename": "Deepika Padukone_2.jpg",
+          "size_bytes": 158134,
+          "size_mb": 0.15,
+          "modified_time": 1741435815.5963576,
+          "file_hash": "47f10d3494c4f233e10a4ff50e3ce576",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Deepika Padukone\\Deepika Padukone_3.jpg",
+          "filename": "Deepika Padukone_3.jpg",
+          "size_bytes": 562125,
+          "size_mb": 0.54,
+          "modified_time": 1741435816.9710996,
+          "file_hash": "2bb27d7fcf897f0cd9f497c9a09e0758",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 1.32,
+        "formats": [
+          "jpg",
+          "jpeg"
+        ]
+      }
+    },
+    "Dhanush": {
+      "person_id": "dhanush",
+      "display_name": "Dhanush",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Dhanush\\Dhanush_1.jpg",
+          "filename": "Dhanush_1.jpg",
+          "size_bytes": 60435,
+          "size_mb": 0.06,
+          "modified_time": 1741435872.5855296,
+          "file_hash": "87034b828a81f0e3acdf3109b5612cb9",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Dhanush\\Dhanush_2.jpg",
+          "filename": "Dhanush_2.jpg",
+          "size_bytes": 72928,
+          "size_mb": 0.07,
+          "modified_time": 1741435874.4229064,
+          "file_hash": "e2822b101c46477aa5de0a634f211c02",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Dhanush\\Dhanush_3.jpg",
+          "filename": "Dhanush_3.jpg",
+          "size_bytes": 1209471,
+          "size_mb": 1.15,
+          "modified_time": 1741435875.7422416,
+          "file_hash": "91e9857bc554b1d01f3e6f43c768fc78",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 1.28,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Hardik Pandya": {
+      "person_id": "hardik_pandya",
+      "display_name": "Hardik Pandya",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Hardik Pandya\\Hardik Pandya_1.jpg",
+          "filename": "Hardik Pandya_1.jpg",
+          "size_bytes": 220544,
+          "size_mb": 0.21,
+          "modified_time": 1741435862.582208,
+          "file_hash": "2c3535643566df92b63230d6c70a7f88",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Hardik Pandya\\Hardik Pandya_3.jpg",
+          "filename": "Hardik Pandya_3.jpg",
+          "size_bytes": 14796,
+          "size_mb": 0.01,
+          "modified_time": 1741435866.073402,
+          "file_hash": "836110857b4fb45642d41e3c60883c34",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 2,
+        "total_size_mb": 0.22,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Hrithik Roshan": {
+      "person_id": "hrithik_roshan",
+      "display_name": "Hrithik Roshan",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Hrithik Roshan\\Hrithik Roshan_1.jpg",
+          "filename": "Hrithik Roshan_1.jpg",
+          "size_bytes": 123443,
+          "size_mb": 0.12,
+          "modified_time": 1741435825.4808805,
+          "file_hash": "00de3d33d31fbcd6341b480e6a0e8366",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Hrithik Roshan\\Hrithik Roshan_2.jpg",
+          "filename": "Hrithik Roshan_2.jpg",
+          "size_bytes": 267828,
+          "size_mb": 0.26,
+          "modified_time": 1741435828.0543017,
+          "file_hash": "c226da24e32022af261fde4ff72260b9",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Hrithik Roshan\\Hrithik Roshan_3.jpg",
+          "filename": "Hrithik Roshan_3.jpg",
+          "size_bytes": 62709,
+          "size_mb": 0.06,
+          "modified_time": 1741435829.2640955,
+          "file_hash": "8215700d38ff0c87137e0504be454ef4",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.44,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Jasprit Bumrah": {
+      "person_id": "jasprit_bumrah",
+      "display_name": "Jasprit Bumrah",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Jasprit Bumrah\\Jasprit Bumrah_1.jpg",
+          "filename": "Jasprit Bumrah_1.jpg",
+          "size_bytes": 792109,
+          "size_mb": 0.76,
+          "modified_time": 1741435862.0650046,
+          "file_hash": "1e2f258fda2616667fd96fd4c105fa15",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Jasprit Bumrah\\Jasprit Bumrah_2.jpg",
+          "filename": "Jasprit Bumrah_2.jpg",
+          "size_bytes": 96770,
+          "size_mb": 0.09,
+          "modified_time": 1741435863.4051533,
+          "file_hash": "83cf12a592499b60d0ef4820fd1ab868",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Jasprit Bumrah\\Jasprit Bumrah_3.jpg",
+          "filename": "Jasprit Bumrah_3.jpg",
+          "size_bytes": 32512,
+          "size_mb": 0.03,
+          "modified_time": 1741435865.6280332,
+          "file_hash": "3bcee8560fce4fb23af02efe58ebc35d",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.88,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Kamal Haasan": {
+      "person_id": "kamal_haasan",
+      "display_name": "Kamal Haasan",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Kamal Haasan\\Kamal Haasan_1.jpg",
+          "filename": "Kamal Haasan_1.jpg",
+          "size_bytes": 24072,
+          "size_mb": 0.02,
+          "modified_time": 1741435839.1637015,
+          "file_hash": "c858b800a8b58929d4cc657096628edd",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Kamal Haasan\\Kamal Haasan_2.jpg",
+          "filename": "Kamal Haasan_2.jpg",
+          "size_bytes": 24948,
+          "size_mb": 0.02,
+          "modified_time": 1741435840.3343585,
+          "file_hash": "df613cfde72229341859d1ece8ac3f03",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Kamal Haasan\\Kamal Haasan_3.jpg",
+          "filename": "Kamal Haasan_3.jpg",
+          "size_bytes": 49629,
+          "size_mb": 0.05,
+          "modified_time": 1741435843.0613406,
+          "file_hash": "f384ddbff39c6ce3ecc528afa9e8aa66",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.09,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Kareena Kapoor": {
+      "person_id": "kareena_kapoor",
+      "display_name": "Kareena Kapoor",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Kareena Kapoor\\Kareena Kapoor_1.jpg",
+          "filename": "Kareena Kapoor_1.jpg",
+          "size_bytes": 887084,
+          "size_mb": 0.85,
+          "modified_time": 1741435826.542725,
+          "file_hash": "7851892fa0d45ba5ea090750222ecd2e",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Kareena Kapoor\\Kareena Kapoor_2.jpg",
+          "filename": "Kareena Kapoor_2.jpg",
+          "size_bytes": 201872,
+          "size_mb": 0.19,
+          "modified_time": 1741435827.8305614,
+          "file_hash": "08ab44a5dfc526462a0c5c10c4ed7e18",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Kareena Kapoor\\Kareena Kapoor_3.jpg",
+          "filename": "Kareena Kapoor_3.jpg",
+          "size_bytes": 105880,
+          "size_mb": 0.1,
+          "modified_time": 1741435829.0039692,
+          "file_hash": "886b6649b4c7018bcfe8c0e55177578f",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 1.14,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Katrina Kaif": {
+      "person_id": "katrina_kaif",
+      "display_name": "Katrina Kaif",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Katrina Kaif\\Katrina Kaif_1.jpeg",
+          "filename": "Katrina Kaif_1.jpeg",
+          "size_bytes": 269942,
+          "size_mb": 0.26,
+          "modified_time": 1741435846.619947,
+          "file_hash": "6b9082b9adb02ba9ba4c4bcdd2f956a0",
+          "format": "jpeg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Katrina Kaif\\Katrina Kaif_2.jpg",
+          "filename": "Katrina Kaif_2.jpg",
+          "size_bytes": 206687,
+          "size_mb": 0.2,
+          "modified_time": 1741435847.8223963,
+          "file_hash": "bd4a49601d5f43a36456db3d1954dbeb",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Katrina Kaif\\Katrina Kaif_3.jpg",
+          "filename": "Katrina Kaif_3.jpg",
+          "size_bytes": 89822,
+          "size_mb": 0.09,
+          "modified_time": 1741435850.8628252,
+          "file_hash": "095b961dabf9a64f3caead44f1bf160b",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.55,
+        "formats": [
+          "jpg",
+          "jpeg"
+        ]
+      }
+    },
+    "Madhuri Dixit": {
+      "person_id": "madhuri_dixit",
+      "display_name": "Madhuri Dixit",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Madhuri Dixit\\Madhuri Dixit_1.jpg",
+          "filename": "Madhuri Dixit_1.jpg",
+          "size_bytes": 127028,
+          "size_mb": 0.12,
+          "modified_time": 1741435847.6647384,
+          "file_hash": "7f4fc0ee78ee3a81b1a3456c24aafffb",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Madhuri Dixit\\Madhuri Dixit_2.jpg",
+          "filename": "Madhuri Dixit_2.jpg",
+          "size_bytes": 67643,
+          "size_mb": 0.06,
+          "modified_time": 1741435849.095337,
+          "file_hash": "c7ea8f6b0fea6f9a33140656909b4622",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Madhuri Dixit\\Madhuri Dixit_3.jpg",
+          "filename": "Madhuri Dixit_3.jpg",
+          "size_bytes": 97252,
+          "size_mb": 0.09,
+          "modified_time": 1741435851.698072,
+          "file_hash": "df4f8607533e7949ff92c6c458546193",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.27,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Mary Kom": {
+      "person_id": "mary_kom",
+      "display_name": "Mary Kom",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Mary Kom\\Mary Kom_2.jpg",
+          "filename": "Mary Kom_2.jpg",
+          "size_bytes": 481823,
+          "size_mb": 0.46,
+          "modified_time": 1741435877.3340614,
+          "file_hash": "0942bb7d6dadf300f7918a515cffeccb",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Mary Kom\\Mary Kom_3.jpg",
+          "filename": "Mary Kom_3.jpg",
+          "size_bytes": 99379,
+          "size_mb": 0.09,
+          "modified_time": 1741435880.9014173,
+          "file_hash": "d009c33d56c0887b9269464a7b2117cf",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 2,
+        "total_size_mb": 0.55,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "mayank": {
+      "person_id": "mayank",
+      "display_name": "mayank",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\mayank\\WhatsApp Image 2025-03-08 at 15.36.16_ce3eb692.jpg",
+          "filename": "WhatsApp Image 2025-03-08 at 15.36.16_ce3eb692.jpg",
+          "size_bytes": 443310,
+          "size_mb": 0.42,
+          "modified_time": 1741428375.3370235,
+          "file_hash": "c77e76f2fd763dfe328c8ab3b8c24b68",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\mayank\\WhatsApp Image 2025-03-08 at 15.36.16_d877cc91.jpg",
+          "filename": "WhatsApp Image 2025-03-08 at 15.36.16_d877cc91.jpg",
+          "size_bytes": 581469,
+          "size_mb": 0.55,
+          "modified_time": 1741428382.2307518,
+          "file_hash": "90edac8facf484e3f42dafec24c8ab8b",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\mayank\\WhatsApp Image 2025-03-08 at 15.36.17_a7589b71.jpg",
+          "filename": "WhatsApp Image 2025-03-08 at 15.36.17_a7589b71.jpg",
+          "size_bytes": 756483,
+          "size_mb": 0.72,
+          "modified_time": 1741428382.7317846,
+          "file_hash": "710adcfcc6ba3c539395ea8e0b569f1e",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 1.69,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "MS Dhoni": {
+      "person_id": "ms_dhoni",
+      "display_name": "MS Dhoni",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\MS Dhoni\\MS Dhoni_1.jpg",
+          "filename": "MS Dhoni_1.jpg",
+          "size_bytes": 400436,
+          "size_mb": 0.38,
+          "modified_time": 1741435819.4911277,
+          "file_hash": "e33d9f793a7f330db977e9669f5c0c75",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\MS Dhoni\\MS Dhoni_2.jpg",
+          "filename": "MS Dhoni_2.jpg",
+          "size_bytes": 83626,
+          "size_mb": 0.08,
+          "modified_time": 1741435821.0811305,
+          "file_hash": "b5e1ea34696f4b51219d5b30f6812721",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\MS Dhoni\\MS Dhoni_3.jpeg",
+          "filename": "MS Dhoni_3.jpeg",
+          "size_bytes": 838148,
+          "size_mb": 0.8,
+          "modified_time": 1741435822.523255,
+          "file_hash": "d9b4e39d8b32a8effc056e2b9402b001",
+          "format": "jpeg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 1.26,
+        "formats": [
+          "jpg",
+          "jpeg"
+        ]
+      }
+    },
+    "Narendra Modi": {
+      "person_id": "narendra_modi",
+      "display_name": "Narendra Modi",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Narendra Modi\\Narendra Modi_1.jpg",
+          "filename": "Narendra Modi_1.jpg",
+          "size_bytes": 91701,
+          "size_mb": 0.09,
+          "modified_time": 1741435832.3710372,
+          "file_hash": "4e9143c194e8e6d57975f5a8ee76d51b",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Narendra Modi\\Narendra Modi_2.jpg",
+          "filename": "Narendra Modi_2.jpg",
+          "size_bytes": 185496,
+          "size_mb": 0.18,
+          "modified_time": 1741435833.900843,
+          "file_hash": "a6a3617885dadc218a6e2aa541e105dc",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Narendra Modi\\Narendra Modi_3.jpg",
+          "filename": "Narendra Modi_3.jpg",
+          "size_bytes": 349342,
+          "size_mb": 0.33,
+          "modified_time": 1741435836.304299,
+          "file_hash": "4a10edb323542dc44e0b7bf39071c662",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.6,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Neeraj Chopra": {
+      "person_id": "neeraj_chopra",
+      "display_name": "Neeraj Chopra",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Neeraj Chopra\\Neeraj Chopra_1.jpg",
+          "filename": "Neeraj Chopra_1.jpg",
+          "size_bytes": 266174,
+          "size_mb": 0.25,
+          "modified_time": 1741435865.669055,
+          "file_hash": "921adf149f1fa522fcbdedd038cc09b8",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Neeraj Chopra\\Neeraj Chopra_2.jpg",
+          "filename": "Neeraj Chopra_2.jpg",
+          "size_bytes": 143030,
+          "size_mb": 0.14,
+          "modified_time": 1741435866.865179,
+          "file_hash": "0510fc0c6d7860547d190261899cb126",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Neeraj Chopra\\Neeraj Chopra_3.jpg",
+          "filename": "Neeraj Chopra_3.jpg",
+          "size_bytes": 25550,
+          "size_mb": 0.02,
+          "modified_time": 1741435869.4818907,
+          "file_hash": "a73dcaf1a03ff3542e294efcc85e0e54",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.41,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Prabhas": {
+      "person_id": "prabhas",
+      "display_name": "Prabhas",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Prabhas\\Prabhas_1.jpg",
+          "filename": "Prabhas_1.jpg",
+          "size_bytes": 83538,
+          "size_mb": 0.08,
+          "modified_time": 1741435841.9302785,
+          "file_hash": "56a3ef1ac5aa1abad2a0bf6cc3816c24",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Prabhas\\Prabhas_2.jpg",
+          "filename": "Prabhas_2.jpg",
+          "size_bytes": 564869,
+          "size_mb": 0.54,
+          "modified_time": 1741435843.286193,
+          "file_hash": "0c7c85712e611da0cabbea335d81d1ea",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Prabhas\\Prabhas_3.jpg",
+          "filename": "Prabhas_3.jpg",
+          "size_bytes": 285203,
+          "size_mb": 0.27,
+          "modified_time": 1741435844.510504,
+          "file_hash": "07890089f32cd78061f56a4883133814",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.89,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "pratham": {
+      "person_id": "pratham",
+      "display_name": "pratham",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\pratham\\IMG-20250408-WA0003.jpg",
+          "filename": "IMG-20250408-WA0003.jpg",
+          "size_bytes": 882382,
+          "size_mb": 0.84,
+          "modified_time": 1744065072.02387,
+          "file_hash": "615aab522f8f548f123a5003a0226c01",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\pratham\\IMG-20250408-WA0004.jpg",
+          "filename": "IMG-20250408-WA0004.jpg",
+          "size_bytes": 610683,
+          "size_mb": 0.58,
+          "modified_time": 1744065072.679537,
+          "file_hash": "b2aaf19f74d6a306a6440bcbd0828d2b",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\pratham\\IMG-20250408-WA0005.jpg",
+          "filename": "IMG-20250408-WA0005.jpg",
+          "size_bytes": 1036152,
+          "size_mb": 0.99,
+          "modified_time": 1744065072.9439504,
+          "file_hash": "e695185a3412682190847a7c60007a97",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 2.41,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Priyanka Chopra": {
+      "person_id": "priyanka_chopra",
+      "display_name": "Priyanka Chopra",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Priyanka Chopra\\Priyanka Chopra_1.jpg",
+          "filename": "Priyanka Chopra_1.jpg",
+          "size_bytes": 878659,
+          "size_mb": 0.84,
+          "modified_time": 1741435821.8121848,
+          "file_hash": "3d0fd76bfa54d41d9a15148387b7df68",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Priyanka Chopra\\Priyanka Chopra_2.jpg",
+          "filename": "Priyanka Chopra_2.jpg",
+          "size_bytes": 931806,
+          "size_mb": 0.89,
+          "modified_time": 1741435824.2323923,
+          "file_hash": "39ab9e12bcd4df93439aa73d4f013a1b",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Priyanka Chopra\\Priyanka Chopra_3.jpg",
+          "filename": "Priyanka Chopra_3.jpg",
+          "size_bytes": 349289,
+          "size_mb": 0.33,
+          "modified_time": 1741435825.5198443,
+          "file_hash": "954e5c4117de0712c0bfa2459cb6ad7f",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 2.06,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "PV Sindhu": {
+      "person_id": "pv_sindhu",
+      "display_name": "PV Sindhu",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\PV Sindhu\\PV Sindhu_1.jpg",
+          "filename": "PV Sindhu_1.jpg",
+          "size_bytes": 613501,
+          "size_mb": 0.59,
+          "modified_time": 1741435832.3401806,
+          "file_hash": "12b820c0b3b6abb8e380d09ca7b85993",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\PV Sindhu\\PV Sindhu_2.png",
+          "filename": "PV Sindhu_2.png",
+          "size_bytes": 60862,
+          "size_mb": 0.06,
+          "modified_time": 1741435833.652335,
+          "file_hash": "70d8a90465280fbc4f8a10ea7df4f512",
+          "format": "png"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\PV Sindhu\\PV Sindhu_3.jpg",
+          "filename": "PV Sindhu_3.jpg",
+          "size_bytes": 52314,
+          "size_mb": 0.05,
+          "modified_time": 1741435834.9959333,
+          "file_hash": "6ffb8aa4e9a204aa75add3eebd899feb",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.7,
+        "formats": [
+          "png",
+          "jpg"
+        ]
+      }
+    },
+    "Rahul Dravid": {
+      "person_id": "rahul_dravid",
+      "display_name": "Rahul Dravid",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Rahul Dravid\\Rahul Dravid_1.jpg",
+          "filename": "Rahul Dravid_1.jpg",
+          "size_bytes": 942468,
+          "size_mb": 0.9,
+          "modified_time": 1741435859.0715687,
+          "file_hash": "494b2fa2e9430bc6461baffb2f4b97ab",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rahul Dravid\\Rahul Dravid_2.jpg",
+          "filename": "Rahul Dravid_2.jpg",
+          "size_bytes": 205568,
+          "size_mb": 0.2,
+          "modified_time": 1741435860.8935566,
+          "file_hash": "34e85d89ffd3b200bc52a0e5907bb9cc",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rahul Dravid\\Rahul Dravid_3.jpg",
+          "filename": "Rahul Dravid_3.jpg",
+          "size_bytes": 601158,
+          "size_mb": 0.57,
+          "modified_time": 1741435863.161618,
+          "file_hash": "e0a32ec9442e12349ecf5d102bb23fbe",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 1.67,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Rahul Gandhi": {
+      "person_id": "rahul_gandhi",
+      "display_name": "Rahul Gandhi",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Rahul Gandhi\\Rahul Gandhi_1.jpg",
+          "filename": "Rahul Gandhi_1.jpg",
+          "size_bytes": 80255,
+          "size_mb": 0.08,
+          "modified_time": 1741435869.026867,
+          "file_hash": "dc89a5604e0e5f523734c0fe0a504cfb",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rahul Gandhi\\Rahul Gandhi_2.jpg",
+          "filename": "Rahul Gandhi_2.jpg",
+          "size_bytes": 79770,
+          "size_mb": 0.08,
+          "modified_time": 1741435870.999382,
+          "file_hash": "a0b389fbf391afbb2d84bf58aeb2cd03",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rahul Gandhi\\Rahul Gandhi_3.jpeg",
+          "filename": "Rahul Gandhi_3.jpeg",
+          "size_bytes": 339331,
+          "size_mb": 0.32,
+          "modified_time": 1741435872.8336318,
+          "file_hash": "8061c7d708ba49821f0596dfe084b92c",
+          "format": "jpeg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.48,
+        "formats": [
+          "jpg",
+          "jpeg"
+        ]
+      }
+    },
+    "Rajinikanth": {
+      "person_id": "rajinikanth",
+      "display_name": "Rajinikanth",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Rajinikanth\\Rajinikanth_1.jpg",
+          "filename": "Rajinikanth_1.jpg",
+          "size_bytes": 224736,
+          "size_mb": 0.21,
+          "modified_time": 1741435838.2854533,
+          "file_hash": "f35501932fa94642c052bb8925c4dbb1",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rajinikanth\\Rajinikanth_2.jpg",
+          "filename": "Rajinikanth_2.jpg",
+          "size_bytes": 14350,
+          "size_mb": 0.01,
+          "modified_time": 1741435839.4607964,
+          "file_hash": "292fcf85caf63458b6b21a05009509c0",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rajinikanth\\Rajinikanth_3.jpg",
+          "filename": "Rajinikanth_3.jpg",
+          "size_bytes": 535570,
+          "size_mb": 0.51,
+          "modified_time": 1741435842.1608734,
+          "file_hash": "72b6cb8fd6eaaecd0e3c5d53c9fe9375",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.73,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Rajkummar Rao": {
+      "person_id": "rajkummar_rao",
+      "display_name": "Rajkummar Rao",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Rajkummar Rao\\Rajkummar Rao_1.jpg",
+          "filename": "Rajkummar Rao_1.jpg",
+          "size_bytes": 72390,
+          "size_mb": 0.07,
+          "modified_time": 1741435876.4248607,
+          "file_hash": "b35d1f2190a61c69c42cc84656e196b4",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rajkummar Rao\\Rajkummar Rao_2.jpg",
+          "filename": "Rajkummar Rao_2.jpg",
+          "size_bytes": 150934,
+          "size_mb": 0.14,
+          "modified_time": 1741435877.5852633,
+          "file_hash": "9e977f16d3a2f151318a6e5d74ac77f6",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rajkummar Rao\\Rajkummar Rao_3.jpeg",
+          "filename": "Rajkummar Rao_3.jpeg",
+          "size_bytes": 184846,
+          "size_mb": 0.18,
+          "modified_time": 1741435879.5811708,
+          "file_hash": "3cc0660d42bf125f0f3ac0483e3c0570",
+          "format": "jpeg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.39,
+        "formats": [
+          "jpg",
+          "jpeg"
+        ]
+      }
+    },
+    "Ranbir Kapoor": {
+      "person_id": "ranbir_kapoor",
+      "display_name": "Ranbir Kapoor",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Ranbir Kapoor\\Ranbir Kapoor_1.jpg",
+          "filename": "Ranbir Kapoor_1.jpg",
+          "size_bytes": 176582,
+          "size_mb": 0.17,
+          "modified_time": 1741435828.029873,
+          "file_hash": "cefa751dadd6a8492a2800e379a1be20",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Ranbir Kapoor\\Ranbir Kapoor_2.jpg",
+          "filename": "Ranbir Kapoor_2.jpg",
+          "size_bytes": 61435,
+          "size_mb": 0.06,
+          "modified_time": 1741435829.3061929,
+          "file_hash": "82377bcc11bfbfce6a8c383841ac7826",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Ranbir Kapoor\\Ranbir Kapoor_3.jpg",
+          "filename": "Ranbir Kapoor_3.jpg",
+          "size_bytes": 69995,
+          "size_mb": 0.07,
+          "modified_time": 1741435830.7204015,
+          "file_hash": "e7e84858a24297fa5efbe2442e396ff6",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.3,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Rani Mukerji": {
+      "person_id": "rani_mukerji",
+      "display_name": "Rani Mukerji",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Rani Mukerji\\Rani Mukerji_1.jpg",
+          "filename": "Rani Mukerji_1.jpg",
+          "size_bytes": 56188,
+          "size_mb": 0.05,
+          "modified_time": 1741435853.9126785,
+          "file_hash": "fb911047b6c6d5421ad68971e6a88015",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rani Mukerji\\Rani Mukerji_2.jpg",
+          "filename": "Rani Mukerji_2.jpg",
+          "size_bytes": 51210,
+          "size_mb": 0.05,
+          "modified_time": 1741435855.4216833,
+          "file_hash": "ac09d9da2a4b40160e512c4ea8ab9bd3",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 2,
+        "total_size_mb": 0.1,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Ranveer Singh": {
+      "person_id": "ranveer_singh",
+      "display_name": "Ranveer Singh",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Ranveer Singh\\Ranveer Singh_1.jpg",
+          "filename": "Ranveer Singh_1.jpg",
+          "size_bytes": 79586,
+          "size_mb": 0.08,
+          "modified_time": 1741435820.167617,
+          "file_hash": "84a9011a916297d0597649669a26dc60",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Ranveer Singh\\Ranveer Singh_3.jpg",
+          "filename": "Ranveer Singh_3.jpg",
+          "size_bytes": 250990,
+          "size_mb": 0.24,
+          "modified_time": 1741435824.7012672,
+          "file_hash": "e727be49ccbecf7e1858bfa8589c2e9c",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 2,
+        "total_size_mb": 0.32,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Rekha": {
+      "person_id": "rekha",
+      "display_name": "Rekha",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Rekha\\Rekha_1.jpg",
+          "filename": "Rekha_1.jpg",
+          "size_bytes": 398,
+          "size_mb": 0.0,
+          "modified_time": 1741435850.7896166,
+          "file_hash": "e5e212cfc425e1905f2be5b8d3cc1a61",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rekha\\Rekha_2.jpg",
+          "filename": "Rekha_2.jpg",
+          "size_bytes": 35114,
+          "size_mb": 0.03,
+          "modified_time": 1741435851.8936584,
+          "file_hash": "a44310cdf5afc39b2ea9b4c33a30db0f",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rekha\\Rekha_3.jpg",
+          "filename": "Rekha_3.jpg",
+          "size_bytes": 42435,
+          "size_mb": 0.04,
+          "modified_time": 1741435853.002617,
+          "file_hash": "e37c199f30587f1f53626b352b9fac69",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.07,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Rohit Sharma": {
+      "person_id": "rohit_sharma",
+      "display_name": "Rohit Sharma",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Rohit Sharma\\Rohit Sharma_1.jpg",
+          "filename": "Rohit Sharma_1.jpg",
+          "size_bytes": 727997,
+          "size_mb": 0.69,
+          "modified_time": 1741435862.438643,
+          "file_hash": "eca4abdcfc714824454ffd17119143e4",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rohit Sharma\\Rohit Sharma_2.jpg",
+          "filename": "Rohit Sharma_2.jpg",
+          "size_bytes": 284257,
+          "size_mb": 0.27,
+          "modified_time": 1741435863.9437146,
+          "file_hash": "32361d72bc43cdab61de1b6867df5606",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Rohit Sharma\\Rohit Sharma_3.jpg",
+          "filename": "Rohit Sharma_3.jpg",
+          "size_bytes": 242800,
+          "size_mb": 0.23,
+          "modified_time": 1741435865.661913,
+          "file_hash": "dbcb6f2d17cd0204e600b269ee8e7b6f",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 1.19,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Sachin Tendulkar": {
+      "person_id": "sachin_tendulkar",
+      "display_name": "Sachin Tendulkar",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Sachin Tendulkar\\Sachin Tendulkar_1.jpg",
+          "filename": "Sachin Tendulkar_1.jpg",
+          "size_bytes": 145037,
+          "size_mb": 0.14,
+          "modified_time": 1741435829.2535498,
+          "file_hash": "cd0f6c924206abeec5a77337eca66ba9",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sachin Tendulkar\\Sachin Tendulkar_2.jpg",
+          "filename": "Sachin Tendulkar_2.jpg",
+          "size_bytes": 39348,
+          "size_mb": 0.04,
+          "modified_time": 1741435831.1135972,
+          "file_hash": "e0dd1ff68177defebe7978292bc54e33",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sachin Tendulkar\\Sachin Tendulkar_3.jpg",
+          "filename": "Sachin Tendulkar_3.jpg",
+          "size_bytes": 70024,
+          "size_mb": 0.07,
+          "modified_time": 1741435832.8532078,
+          "file_hash": "4dea181e072e553dc5de5d9d37da3019",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.25,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Saina Nehwal": {
+      "person_id": "saina_nehwal",
+      "display_name": "Saina Nehwal",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Saina Nehwal\\Saina Nehwal_1.jpg",
+          "filename": "Saina Nehwal_1.jpg",
+          "size_bytes": 1700794,
+          "size_mb": 1.62,
+          "modified_time": 1741435833.7662876,
+          "file_hash": "6667cefb0a5317b84effe50a0a7072d5",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Saina Nehwal\\Saina Nehwal_2.jpg",
+          "filename": "Saina Nehwal_2.jpg",
+          "size_bytes": 29644,
+          "size_mb": 0.03,
+          "modified_time": 1741435834.9166017,
+          "file_hash": "39a239d47cb5739a7300cc556038e219",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Saina Nehwal\\Saina Nehwal_3.jpg",
+          "filename": "Saina Nehwal_3.jpg",
+          "size_bytes": 62817,
+          "size_mb": 0.06,
+          "modified_time": 1741435837.24936,
+          "file_hash": "52232e20b17a2bb83b7dc6d9a5f482d6",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 1.71,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Salman Khan": {
+      "person_id": "salman_khan",
+      "display_name": "Salman Khan",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Salman Khan\\Salman Khan_1.jpg",
+          "filename": "Salman Khan_1.jpg",
+          "size_bytes": 633627,
+          "size_mb": 0.6,
+          "modified_time": 1741435813.3404255,
+          "file_hash": "496c852d732447cfaeaf4e7a3bcf6fff",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Salman Khan\\Salman Khan_2.jpg",
+          "filename": "Salman Khan_2.jpg",
+          "size_bytes": 94351,
+          "size_mb": 0.09,
+          "modified_time": 1741435814.6776557,
+          "file_hash": "897833ccb4fe871eaa09bf2a19e44c1b",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Salman Khan\\Salman Khan_3.jpg",
+          "filename": "Salman Khan_3.jpg",
+          "size_bytes": 71232,
+          "size_mb": 0.07,
+          "modified_time": 1741435815.8008056,
+          "file_hash": "2161126c4d6587d88c4998dff837a5ee",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.76,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Sania Mirza": {
+      "person_id": "sania_mirza",
+      "display_name": "Sania Mirza",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Sania Mirza\\Sania Mirza_1.jpg",
+          "filename": "Sania Mirza_1.jpg",
+          "size_bytes": 100214,
+          "size_mb": 0.1,
+          "modified_time": 1741435832.0860307,
+          "file_hash": "fe95bb077c17022bd839abbce855e0f5",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sania Mirza\\Sania Mirza_2.jpg",
+          "filename": "Sania Mirza_2.jpg",
+          "size_bytes": 126877,
+          "size_mb": 0.12,
+          "modified_time": 1741435834.9959333,
+          "file_hash": "88f93908c4d3d9c859fed4ee5a6f34d9",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sania Mirza\\Sania Mirza_3.png",
+          "filename": "Sania Mirza_3.png",
+          "size_bytes": 1691055,
+          "size_mb": 1.61,
+          "modified_time": 1741435837.382574,
+          "file_hash": "416909e95bfd229735bbb52c4036cb17",
+          "format": "png"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 1.83,
+        "formats": [
+          "png",
+          "jpg"
+        ]
+      }
+    },
+    "Shah Rukh Khan": {
+      "person_id": "shah_rukh_khan",
+      "display_name": "Shah Rukh Khan",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Shah Rukh Khan\\Shah Rukh Khan_1.jpg",
+          "filename": "Shah Rukh Khan_1.jpg",
+          "size_bytes": 154184,
+          "size_mb": 0.15,
+          "modified_time": 1741435813.698457,
+          "file_hash": "49c629d799079f11e1484b08b6c51ce3",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Shah Rukh Khan\\Shah Rukh Khan_2.jpg",
+          "filename": "Shah Rukh Khan_2.jpg",
+          "size_bytes": 94892,
+          "size_mb": 0.09,
+          "modified_time": 1741435814.9448936,
+          "file_hash": "a4d58a1edef981338a6286532bf8e683",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Shah Rukh Khan\\Shah Rukh Khan_3.jpg",
+          "filename": "Shah Rukh Khan_3.jpg",
+          "size_bytes": 102889,
+          "size_mb": 0.1,
+          "modified_time": 1741435816.5947542,
+          "file_hash": "2995e7fb59a70509c2848b26613da4ed",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.34,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "shubham": {
+      "person_id": "shubham",
+      "display_name": "shubham",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\shubham\\WhatsApp Image 2024-03-28 at 01.10.02_77ac6467.jpg",
+          "filename": "WhatsApp Image 2024-03-28 at 01.10.02_77ac6467.jpg",
+          "size_bytes": 205702,
+          "size_mb": 0.2,
+          "modified_time": 1711568408.13666,
+          "file_hash": "2ec70625448f56a39cbbd504a3cbd46c",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\shubham\\WhatsApp Image 2024-03-28 at 01.17.16_9f707c4c.jpg",
+          "filename": "WhatsApp Image 2024-03-28 at 01.17.16_9f707c4c.jpg",
+          "size_bytes": 139664,
+          "size_mb": 0.13,
+          "modified_time": 1711568841.964082,
+          "file_hash": "fe4c7db84bdaf3e9f8949c60751312d5",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\shubham\\WhatsApp Image 2024-04-14 at 13.56.36_7ab87404.jpg",
+          "filename": "WhatsApp Image 2024-04-14 at 13.56.36_7ab87404.jpg",
+          "size_bytes": 146727,
+          "size_mb": 0.14,
+          "modified_time": 1713083195.6283388,
+          "file_hash": "806e19ed3d98cff736fc9f4f0c4b2ffa",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.47,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Sonam Kapoor": {
+      "person_id": "sonam_kapoor",
+      "display_name": "Sonam Kapoor",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Sonam Kapoor\\Sonam Kapoor_1.jpg",
+          "filename": "Sonam Kapoor_1.jpg",
+          "size_bytes": 121242,
+          "size_mb": 0.12,
+          "modified_time": 1741435846.258219,
+          "file_hash": "d7e560c02f1607bfdb71337c10c35678",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sonam Kapoor\\Sonam Kapoor_2.jpg",
+          "filename": "Sonam Kapoor_2.jpg",
+          "size_bytes": 263225,
+          "size_mb": 0.25,
+          "modified_time": 1741435847.611349,
+          "file_hash": "9e4c6ace2668544253bc78f7031ee5e7",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sonam Kapoor\\Sonam Kapoor_3.jpg",
+          "filename": "Sonam Kapoor_3.jpg",
+          "size_bytes": 200087,
+          "size_mb": 0.19,
+          "modified_time": 1741435848.750204,
+          "file_hash": "aa741e8048ff3755d500d41199a474ad",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.56,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Sourav Ganguly": {
+      "person_id": "sourav_ganguly",
+      "display_name": "Sourav Ganguly",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Sourav Ganguly\\Sourav Ganguly_1.jpg",
+          "filename": "Sourav Ganguly_1.jpg",
+          "size_bytes": 1130632,
+          "size_mb": 1.08,
+          "modified_time": 1741435859.675565,
+          "file_hash": "e67a411e13440a98f5e9e5ba2e9c089f",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sourav Ganguly\\Sourav Ganguly_2.jpg",
+          "filename": "Sourav Ganguly_2.jpg",
+          "size_bytes": 24370,
+          "size_mb": 0.02,
+          "modified_time": 1741435860.8617313,
+          "file_hash": "0be3953ad19b566d264305345f51d84b",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sourav Ganguly\\Sourav Ganguly_3.jpg",
+          "filename": "Sourav Ganguly_3.jpg",
+          "size_bytes": 487428,
+          "size_mb": 0.46,
+          "modified_time": 1741435862.19451,
+          "file_hash": "8c8c3c6f9130cadcc62305f3a1ac17bb",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 1.56,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Sridevi": {
+      "person_id": "sridevi",
+      "display_name": "Sridevi",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Sridevi\\Sridevi_1.png",
+          "filename": "Sridevi_1.png",
+          "size_bytes": 744483,
+          "size_mb": 0.71,
+          "modified_time": 1741435848.2326486,
+          "file_hash": "0afe31d44e8de5869edfb315b74c6196",
+          "format": "png"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sridevi\\Sridevi_2.png",
+          "filename": "Sridevi_2.png",
+          "size_bytes": 2458107,
+          "size_mb": 2.34,
+          "modified_time": 1741435852.0249238,
+          "file_hash": "00b67924847e8ff288b7792895534c83",
+          "format": "png"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sridevi\\Sridevi_3.jpg",
+          "filename": "Sridevi_3.jpg",
+          "size_bytes": 912976,
+          "size_mb": 0.87,
+          "modified_time": 1741435853.71607,
+          "file_hash": "75489f93c9b57ee9591f3b4f191e4445",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 3.92,
+        "formats": [
+          "png",
+          "jpg"
+        ]
+      }
+    },
+    "Sunil Chhetri": {
+      "person_id": "sunil_chhetri",
+      "display_name": "Sunil Chhetri",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Sunil Chhetri\\Sunil Chhetri_1.jpg",
+          "filename": "Sunil Chhetri_1.jpg",
+          "size_bytes": 56469,
+          "size_mb": 0.05,
+          "modified_time": 1741435856.688766,
+          "file_hash": "585aa57a993e4b7e08a6fb152f66078e",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sunil Chhetri\\Sunil Chhetri_2.jpg",
+          "filename": "Sunil Chhetri_2.jpg",
+          "size_bytes": 64292,
+          "size_mb": 0.06,
+          "modified_time": 1741435857.829423,
+          "file_hash": "acc2e9ebf9b898857d3d0e979a505cc7",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sunil Chhetri\\Sunil Chhetri_3.jpg",
+          "filename": "Sunil Chhetri_3.jpg",
+          "size_bytes": 48717,
+          "size_mb": 0.05,
+          "modified_time": 1741435859.1343985,
+          "file_hash": "1ce35e057cd7dcec9573b5346587a0f7",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.16,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "suraj": {
+      "person_id": "suraj",
+      "display_name": "suraj",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\suraj\\IMG-20250408-WA0001.jpg",
+          "filename": "IMG-20250408-WA0001.jpg",
+          "size_bytes": 1841519,
+          "size_mb": 1.76,
+          "modified_time": 1744065071.735432,
+          "file_hash": "07c3983f24b300490855bb0278f1f528",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\suraj\\IMG-20250408-WA0002.jpg",
+          "filename": "IMG-20250408-WA0002.jpg",
+          "size_bytes": 1726379,
+          "size_mb": 1.65,
+          "modified_time": 1744065071.8431792,
+          "file_hash": "0c0260e202fe7cc53f920adb225e6f75",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\suraj\\IMG-20250408-WA0006.jpg",
+          "filename": "IMG-20250408-WA0006.jpg",
+          "size_bytes": 617855,
+          "size_mb": 0.59,
+          "modified_time": 1744065073.4316258,
+          "file_hash": "8865f6f150f4ad3eba9a243074df6338",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 4.0,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Sushmita Sen": {
+      "person_id": "sushmita_sen",
+      "display_name": "Sushmita Sen",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Sushmita Sen\\Sushmita Sen_1.jpg",
+          "filename": "Sushmita Sen_1.jpg",
+          "size_bytes": 122739,
+          "size_mb": 0.12,
+          "modified_time": 1741435856.5543306,
+          "file_hash": "ee7a96057af8e8e3b3c9496524a242cb",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sushmita Sen\\Sushmita Sen_2.jpg",
+          "filename": "Sushmita Sen_2.jpg",
+          "size_bytes": 83693,
+          "size_mb": 0.08,
+          "modified_time": 1741435857.9580154,
+          "file_hash": "003fcaf02a58316198b4160835e81d97",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Sushmita Sen\\Sushmita Sen_3.jpg",
+          "filename": "Sushmita Sen_3.jpg",
+          "size_bytes": 321490,
+          "size_mb": 0.31,
+          "modified_time": 1741435859.2304988,
+          "file_hash": "f5f4ef4f5fb56e7940866b20ed77bca9",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.51,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Vidya Balan": {
+      "person_id": "vidya_balan",
+      "display_name": "Vidya Balan",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Vidya Balan\\Vidya Balan_1.jpg",
+          "filename": "Vidya Balan_1.jpg",
+          "size_bytes": 208564,
+          "size_mb": 0.2,
+          "modified_time": 1741435855.2376947,
+          "file_hash": "973b527fbac543f279dd7ba1b211c633",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Vidya Balan\\Vidya Balan_2.jpg",
+          "filename": "Vidya Balan_2.jpg",
+          "size_bytes": 421012,
+          "size_mb": 0.4,
+          "modified_time": 1741435857.230155,
+          "file_hash": "615a490bad8a5f1d3071845c5600a277",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Vidya Balan\\Vidya Balan_3.jpg",
+          "filename": "Vidya Balan_3.jpg",
+          "size_bytes": 84664,
+          "size_mb": 0.08,
+          "modified_time": 1741435859.0040243,
+          "file_hash": "dea77689f8beca41f965b98e3b3d8848",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.68,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Vijay": {
+      "person_id": "vijay",
+      "display_name": "Vijay",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Vijay\\Vijay_1.jpg",
+          "filename": "Vijay_1.jpg",
+          "size_bytes": 290086,
+          "size_mb": 0.28,
+          "modified_time": 1741435840.5276234,
+          "file_hash": "aa879b80920159ee338f3d95a99cfa9f",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Vijay\\Vijay_2.jpg",
+          "filename": "Vijay_2.jpg",
+          "size_bytes": 210100,
+          "size_mb": 0.2,
+          "modified_time": 1741435842.3922884,
+          "file_hash": "7088db0abb5e934d2022d51a59fcb15b",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Vijay\\Vijay_3.jpg",
+          "filename": "Vijay_3.jpg",
+          "size_bytes": 122192,
+          "size_mb": 0.12,
+          "modified_time": 1741435844.1706395,
+          "file_hash": "cc9140df1039993ff45f64d840d19bb3",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.6,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "vipin": {
+      "person_id": "vipin",
+      "display_name": "vipin",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\vipin\\WhatsApp Image 2025-03-08 at 18.05.18_76881f68.jpg",
+          "filename": "WhatsApp Image 2025-03-08 at 18.05.18_76881f68.jpg",
+          "size_bytes": 228729,
+          "size_mb": 0.22,
+          "modified_time": 1741437319.3043025,
+          "file_hash": "6febbc46632a309ecf26a7e838b5d58c",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\vipin\\WhatsApp Image 2025-03-08 at 18.05.18_a15a0cda.jpg",
+          "filename": "WhatsApp Image 2025-03-08 at 18.05.18_a15a0cda.jpg",
+          "size_bytes": 434562,
+          "size_mb": 0.41,
+          "modified_time": 1741437319.325412,
+          "file_hash": "e58cf871eccfc1a361f6750915a2a80b",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\vipin\\WhatsApp Image 2025-03-08 at 18.05.19_f9dcc069.jpg",
+          "filename": "WhatsApp Image 2025-03-08 at 18.05.19_f9dcc069.jpg",
+          "size_bytes": 790779,
+          "size_mb": 0.75,
+          "modified_time": 1741437319.377061,
+          "file_hash": "6542235ea15f8e41ff3967f8969f6073",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\vipin\\WhatsApp Image 2025-03-08 at 18.05.37_9b7bbd8c.jpg",
+          "filename": "WhatsApp Image 2025-03-08 at 18.05.37_9b7bbd8c.jpg",
+          "size_bytes": 83851,
+          "size_mb": 0.08,
+          "modified_time": 1741437337.9150815,
+          "file_hash": "c2402423436a3277ab05c68f8309b5da",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 4,
+        "total_size_mb": 1.46,
+        "formats": [
+          "jpg"
+        ]
+      }
+    },
+    "Virat Kohli": {
+      "person_id": "virat_kohli",
+      "display_name": "Virat Kohli",
+      "images": [
+        {
+          "path": "F:/faceguard/data/known_faces\\Virat Kohli\\Virat Kohli_1.jpg",
+          "filename": "Virat Kohli_1.jpg",
+          "size_bytes": 76739,
+          "size_mb": 0.07,
+          "modified_time": 1741435819.3017561,
+          "file_hash": "f0833eb13f3421b6868ca4d644044f23",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Virat Kohli\\Virat Kohli_2.jpg",
+          "filename": "Virat Kohli_2.jpg",
+          "size_bytes": 67101,
+          "size_mb": 0.06,
+          "modified_time": 1741435820.4901276,
+          "file_hash": "bccb841fc0ee19e5b61e03fb774a75c7",
+          "format": "jpg"
+        },
+        {
+          "path": "F:/faceguard/data/known_faces\\Virat Kohli\\Virat Kohli_3.jpg",
+          "filename": "Virat Kohli_3.jpg",
+          "size_bytes": 373383,
+          "size_mb": 0.36,
+          "modified_time": 1741435821.669521,
+          "file_hash": "20d999dc68e7dbacf607c14fcc0049bd",
+          "format": "jpg"
+        }
+      ],
+      "metadata": {
+        "image_count": 3,
+        "total_size_mb": 0.49,
+        "formats": [
+          "jpg"
+        ]
+      }
+    }
+  },
+  "statistics": {
+    "total_persons": 54,
+    "total_images": 159,
+    "total_size_mb": 46.7,
+    "image_formats": {
+      "jpg": 147,
+      "jpeg": 7,
+      "png": 5
+    },
+    "persons_by_image_count": {
+      "3": 49,
+      "2": 4,
+      "4": 1
+    }
+  }
+}

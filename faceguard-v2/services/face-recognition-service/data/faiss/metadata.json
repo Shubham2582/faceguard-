@@ -1,0 +1,900 @@
+{
+  "id_map": {
+    "0": {
+      "person_id": "person_aamir_khan_644c4dfe",
+      "embedding_id": "90219508-5ea7-4ae9-acf8-0cc0bc551fbe"
+    },
+    "1": {
+      "person_id": "person_aamir_khan_644c4dfe",
+      "embedding_id": "af28349e-ae3d-4cca-80a5-68bce42026f0"
+    },
+    "2": {
+      "person_id": "person_aamir_khan_644c4dfe",
+      "embedding_id": "e98dd5c3-7479-4494-94e2-4f2299209a50"
+    },
+    "3": {
+      "person_id": "person_aishwarya_rai_9b8cc819",
+      "embedding_id": "fbf3c846-c61b-41cf-a47b-720ef726a785"
+    },
+    "4": {
+      "person_id": "person_aishwarya_rai_9b8cc819",
+      "embedding_id": "72bc931b-b0ef-412c-b267-dbf0ce2cc54c"
+    },
+    "5": {
+      "person_id": "person_aishwarya_rai_9b8cc819",
+      "embedding_id": "08876253-24a8-4b33-84bc-3528f2d589e5"
+    },
+    "6": {
+      "person_id": "person_ajay_devgn_50266865",
+      "embedding_id": "66abcbd6-aa66-4954-a63e-b43d69c14eb3"
+    },
+    "7": {
+      "person_id": "person_ajay_devgn_50266865",
+      "embedding_id": "f627c0ba-b2d0-47e0-a20b-74b94bd5c9c4"
+    },
+    "8": {
+      "person_id": "person_ajay_devgn_50266865",
+      "embedding_id": "02478bfb-7a77-40ec-a7d0-7ffe0f7e0ccc"
+    },
+    "9": {
+      "person_id": "person_akshay_kumar_cfe73908",
+      "embedding_id": "da32977a-5f0e-4dc5-be4d-c57acc2160c9"
+    },
+    "10": {
+      "person_id": "person_akshay_kumar_cfe73908",
+      "embedding_id": "040ca1f4-5b5a-43ba-b5d5-1e577fbf711f"
+    },
+    "11": {
+      "person_id": "person_akshay_kumar_cfe73908",
+      "embedding_id": "f6c5d06b-8260-4346-be3f-013179fbc1d5"
+    },
+    "12": {
+      "person_id": "person_alia_bhatt_b7dbb969",
+      "embedding_id": "0eb5ea7e-45da-4048-bf1d-0562f5f01242"
+    },
+    "13": {
+      "person_id": "person_alia_bhatt_b7dbb969",
+      "embedding_id": "ecc5fbb5-4618-471f-8beb-2c735c2d6396"
+    },
+    "14": {
+      "person_id": "person_alia_bhatt_b7dbb969",
+      "embedding_id": "7a34b6a3-00b2-411d-b2ad-faab0968d23e"
+    },
+    "15": {
+      "person_id": "person_allu_arjun_1f72ac3a",
+      "embedding_id": "07b27d7d-0d2c-4cea-be53-c3e280f23361"
+    },
+    "16": {
+      "person_id": "person_allu_arjun_1f72ac3a",
+      "embedding_id": "9e684049-b9f6-40af-b93b-f3b26b8890b0"
+    },
+    "17": {
+      "person_id": "person_allu_arjun_1f72ac3a",
+      "embedding_id": "35818ad8-7739-4ab2-a1f4-5103ec8fb099"
+    },
+    "18": {
+      "person_id": "person_amit_shah_aeebf403",
+      "embedding_id": "7b399f7c-a338-402e-81d8-78ef241805de"
+    },
+    "19": {
+      "person_id": "person_amit_shah_aeebf403",
+      "embedding_id": "3e7c4624-2680-4c3b-8085-3bdde7da1297"
+    },
+    "20": {
+      "person_id": "person_amit_shah_aeebf403",
+      "embedding_id": "7702b2b5-3e42-4fdc-8be2-1ce6a509cc28"
+    },
+    "21": {
+      "person_id": "person_amitabh_bachchan_131fb2e1",
+      "embedding_id": "8f7ceb35-70f9-44bf-a419-5217ab2c7197"
+    },
+    "22": {
+      "person_id": "person_amitabh_bachchan_131fb2e1",
+      "embedding_id": "1c8ade59-087b-4d2b-add5-dcab495be81c"
+    },
+    "23": {
+      "person_id": "person_amitabh_bachchan_131fb2e1",
+      "embedding_id": "9a7850e8-0b90-44cf-a6a6-cd1bd874eb39"
+    },
+    "24": {
+      "person_id": "person_anushka_sharma_50550427",
+      "embedding_id": "be81d3b4-6360-4f2a-9415-0b63dbde6a2d"
+    },
+    "25": {
+      "person_id": "person_anushka_sharma_50550427",
+      "embedding_id": "b01643ed-109c-4e3a-bbae-8ad00fea94a4"
+    },
+    "26": {
+      "person_id": "person_anushka_sharma_50550427",
+      "embedding_id": "fbaafff6-2071-4a35-8c09-758611c45aa5"
+    },
+    "27": {
+      "person_id": "person_arvind_kejriwal_bfbf129b",
+      "embedding_id": "7d2107ba-f158-4943-8b3f-e9181ee00991"
+    },
+    "28": {
+      "person_id": "person_arvind_kejriwal_bfbf129b",
+      "embedding_id": "fb5a43f9-712b-4a64-b950-98006ebadba3"
+    },
+    "29": {
+      "person_id": "person_arvind_kejriwal_bfbf129b",
+      "embedding_id": "38fdd2f3-db81-44bd-b003-c8b77f24b4d5"
+    },
+    "30": {
+      "person_id": "person_ayushmann_khurrana_2a3be3a1",
+      "embedding_id": "1b4bb392-e9bb-4386-9195-50671d01f4f0"
+    },
+    "31": {
+      "person_id": "person_ayushmann_khurrana_2a3be3a1",
+      "embedding_id": "bc6b92eb-43e9-46e9-aed8-310fee90aae5"
+    },
+    "32": {
+      "person_id": "person_ayushmann_khurrana_2a3be3a1",
+      "embedding_id": "a7701f03-9328-4c15-be1a-4343c1b97dd6"
+    },
+    "33": {
+      "person_id": "person_deepika_padukone_50c8a6ef",
+      "embedding_id": "b0c8217a-9bf1-4f2f-a6c1-064452d0c802"
+    },
+    "34": {
+      "person_id": "person_deepika_padukone_50c8a6ef",
+      "embedding_id": "a6591abe-3fd5-45aa-b4d8-a620b043ac14"
+    },
+    "35": {
+      "person_id": "person_deepika_padukone_50c8a6ef",
+      "embedding_id": "cfc553f3-f200-4e4d-9c83-be5a8d6eef90"
+    },
+    "36": {
+      "person_id": "person_dhanush_1c398c0d",
+      "embedding_id": "e2c9bd85-4f44-4046-b4cc-6de251b13286"
+    },
+    "37": {
+      "person_id": "person_dhanush_1c398c0d",
+      "embedding_id": "f3fbf18d-55fe-4b21-b853-fc5ba149d434"
+    },
+    "38": {
+      "person_id": "person_dhanush_1c398c0d",
+      "embedding_id": "6c23a3b7-e19e-4536-bd67-43196927d856"
+    },
+    "39": {
+      "person_id": "person_hardik_pandya_5d544643",
+      "embedding_id": "1af726be-09dc-45fa-b09f-c8d913c0183f"
+    },
+    "40": {
+      "person_id": "person_hardik_pandya_5d544643",
+      "embedding_id": "59377a35-9951-4154-ad54-29cfc54a572f"
+    },
+    "41": {
+      "person_id": "person_hrithik_roshan_43b17db4",
+      "embedding_id": "6fa70495-955f-46f8-81c6-7e277fe32377"
+    },
+    "42": {
+      "person_id": "person_hrithik_roshan_43b17db4",
+      "embedding_id": "8403da8e-bb21-4f0e-955d-4d66235347bb"
+    },
+    "43": {
+      "person_id": "person_hrithik_roshan_43b17db4",
+      "embedding_id": "a4a128c7-f3e1-4049-a519-91beb9491614"
+    },
+    "44": {
+      "person_id": "person_jasprit_bumrah_53de25ed",
+      "embedding_id": "e40464fa-5c4f-41ea-9eb5-f591c4b85203"
+    },
+    "45": {
+      "person_id": "person_jasprit_bumrah_53de25ed",
+      "embedding_id": "0dbc537e-e253-4061-bfeb-3be7205416cc"
+    },
+    "46": {
+      "person_id": "person_jasprit_bumrah_53de25ed",
+      "embedding_id": "4c7517e6-bdc8-49c3-8358-c6e58a085d54"
+    },
+    "47": {
+      "person_id": "person_kamal_haasan_27b0ba42",
+      "embedding_id": "106fb223-c76e-4bdb-aba5-6ac48de93c9e"
+    },
+    "48": {
+      "person_id": "person_kamal_haasan_27b0ba42",
+      "embedding_id": "4c2ef4d8-c06f-46d9-84da-b6f718b514b1"
+    },
+    "49": {
+      "person_id": "person_kamal_haasan_27b0ba42",
+      "embedding_id": "89696643-2991-485e-a8f3-2d51c0b24629"
+    },
+    "50": {
+      "person_id": "person_kareena_kapoor_28712328",
+      "embedding_id": "fc2b7453-c803-4590-8476-beb8bfb639b3"
+    },
+    "51": {
+      "person_id": "person_kareena_kapoor_28712328",
+      "embedding_id": "7a32debc-185c-4863-a847-5300c69aa74d"
+    },
+    "52": {
+      "person_id": "person_kareena_kapoor_28712328",
+      "embedding_id": "ffc536ce-c1d7-4040-89e4-3062b95a6e54"
+    },
+    "53": {
+      "person_id": "person_katrina_kaif_a6d1f275",
+      "embedding_id": "8fb8b2c4-5572-4508-914f-57009fde8a10"
+    },
+    "54": {
+      "person_id": "person_katrina_kaif_a6d1f275",
+      "embedding_id": "ace58191-a1f3-42e0-a986-a7960cefa306"
+    },
+    "55": {
+      "person_id": "person_katrina_kaif_a6d1f275",
+      "embedding_id": "8caee492-e7e7-405c-8b3e-42a0e202e8b8"
+    },
+    "56": {
+      "person_id": "person_madhuri_dixit_0de6ccea",
+      "embedding_id": "f313890a-f3f2-4538-b105-dcfde5eefae6"
+    },
+    "57": {
+      "person_id": "person_madhuri_dixit_0de6ccea",
+      "embedding_id": "8ee52a4c-6678-4089-953e-beace22a9548"
+    },
+    "58": {
+      "person_id": "person_madhuri_dixit_0de6ccea",
+      "embedding_id": "856ae34e-ba97-4c82-83b1-d59d8aaebfef"
+    },
+    "59": {
+      "person_id": "person_mary_kom_16f518a8",
+      "embedding_id": "f6393520-eaf9-4cb1-a495-235d3f56aea2"
+    },
+    "60": {
+      "person_id": "person_mary_kom_16f518a8",
+      "embedding_id": "896a7c0b-3c28-4732-9de4-98befd3b9c61"
+    },
+    "61": {
+      "person_id": "person_mayank_6643dd91",
+      "embedding_id": "ddf79f44-203f-432f-ac96-e23ec8924aff"
+    },
+    "62": {
+      "person_id": "person_mayank_6643dd91",
+      "embedding_id": "49d4b382-48eb-4de1-a6ca-bc6de385cd65"
+    },
+    "63": {
+      "person_id": "person_mayank_6643dd91",
+      "embedding_id": "5fab0ae1-6f86-449e-847e-c37302403e9d"
+    },
+    "64": {
+      "person_id": "person_ms_dhoni_22a940b7",
+      "embedding_id": "215e9a0f-a6f5-4ed3-bd01-50ec4a699d46"
+    },
+    "65": {
+      "person_id": "person_ms_dhoni_22a940b7",
+      "embedding_id": "7037e80a-697e-4f24-9dee-f4b5ccf07217"
+    },
+    "66": {
+      "person_id": "person_ms_dhoni_22a940b7",
+      "embedding_id": "e691e871-a357-4c8e-b486-7d658a45ec89"
+    },
+    "67": {
+      "person_id": "person_narendra_modi_6e27d332",
+      "embedding_id": "3c9e5ef8-ddb2-4d1c-8639-eccf9a716959"
+    },
+    "68": {
+      "person_id": "person_narendra_modi_6e27d332",
+      "embedding_id": "9b30ca3e-1f5a-4dca-8f68-f620d2b59dba"
+    },
+    "69": {
+      "person_id": "person_narendra_modi_6e27d332",
+      "embedding_id": "e1102854-30d5-42ae-9df8-52c4a1f17bfc"
+    },
+    "70": {
+      "person_id": "person_neeraj_chopra_04ca71a2",
+      "embedding_id": "c5f2914a-a9fd-4f08-8ff3-380c955bb687"
+    },
+    "71": {
+      "person_id": "person_neeraj_chopra_04ca71a2",
+      "embedding_id": "a41c76fc-88f1-4c10-b48c-d6162fe77a2d"
+    },
+    "72": {
+      "person_id": "person_neeraj_chopra_04ca71a2",
+      "embedding_id": "cbe0489a-a549-4712-ad4b-f181692f6b5d"
+    },
+    "73": {
+      "person_id": "person_prabhas_4c902129",
+      "embedding_id": "eba780e8-c4d5-403b-a464-2c965aa92ae3"
+    },
+    "74": {
+      "person_id": "person_prabhas_4c902129",
+      "embedding_id": "804fc283-f206-45de-bfe3-14b69bc61a71"
+    },
+    "75": {
+      "person_id": "person_prabhas_4c902129",
+      "embedding_id": "7a28f50e-f104-48b9-8138-6011e909a673"
+    },
+    "76": {
+      "person_id": "person_pratham_7387a2e4",
+      "embedding_id": "a697d926-3a6c-4910-88d9-d24c28023427"
+    },
+    "77": {
+      "person_id": "person_pratham_7387a2e4",
+      "embedding_id": "ba2ae6d7-a709-4565-8b75-918cb1d61018"
+    },
+    "78": {
+      "person_id": "person_pratham_7387a2e4",
+      "embedding_id": "3eabfc6b-521c-41de-b67b-874c15100f04"
+    },
+    "79": {
+      "person_id": "person_priyanka_chopra_6091be1d",
+      "embedding_id": "e39dc0c1-9936-4d92-973e-8e6b860197a5"
+    },
+    "80": {
+      "person_id": "person_priyanka_chopra_6091be1d",
+      "embedding_id": "1e3376ea-3b59-4b53-8d10-3b2da5ccf344"
+    },
+    "81": {
+      "person_id": "person_priyanka_chopra_6091be1d",
+      "embedding_id": "c15d3bd3-7a87-41bb-9fce-ca9cf5e7eb34"
+    },
+    "82": {
+      "person_id": "person_pv_sindhu_3dafa711",
+      "embedding_id": "1ec001f9-9f8b-48e6-b638-a94a43d4e6b2"
+    },
+    "83": {
+      "person_id": "person_pv_sindhu_3dafa711",
+      "embedding_id": "ace068b1-ef81-407c-a891-8d027bd1d2ab"
+    },
+    "84": {
+      "person_id": "person_pv_sindhu_3dafa711",
+      "embedding_id": "2a64f8b1-311f-4e03-8c87-bb161b9cccb0"
+    },
+    "85": {
+      "person_id": "person_rahul_dravid_da3142a4",
+      "embedding_id": "5b7cb7e2-1235-4a85-8712-773d5e7a4e0b"
+    },
+    "86": {
+      "person_id": "person_rahul_dravid_da3142a4",
+      "embedding_id": "8010c0fe-5642-4f72-b231-c0f7068dd5f9"
+    },
+    "87": {
+      "person_id": "person_rahul_dravid_da3142a4",
+      "embedding_id": "e38a8665-c40f-4a93-a196-2c60cca68ab6"
+    },
+    "88": {
+      "person_id": "person_rahul_gandhi_af2d570f",
+      "embedding_id": "6a0b7daf-e0fb-4491-a8fc-f01ef5410e02"
+    },
+    "89": {
+      "person_id": "person_rahul_gandhi_af2d570f",
+      "embedding_id": "23b7a501-76a9-4d69-b05c-b97d51b09b69"
+    },
+    "90": {
+      "person_id": "person_rahul_gandhi_af2d570f",
+      "embedding_id": "f6d2da1a-e02c-44c9-9356-e885b0c2ef19"
+    },
+    "91": {
+      "person_id": "person_rajinikanth_fc586da0",
+      "embedding_id": "8e976c21-341b-46fe-8d5c-2917376de4db"
+    },
+    "92": {
+      "person_id": "person_rajinikanth_fc586da0",
+      "embedding_id": "9a521c8f-f677-4b6a-94f4-2a1d162f93de"
+    },
+    "93": {
+      "person_id": "person_rajinikanth_fc586da0",
+      "embedding_id": "ccd1f7dc-673d-4e95-af8d-ceaef5e9b5a0"
+    },
+    "94": {
+      "person_id": "person_rajkummar_rao_b1b5d6cf",
+      "embedding_id": "b6885369-f2e8-4929-97d7-7891a631a0a6"
+    },
+    "95": {
+      "person_id": "person_rajkummar_rao_b1b5d6cf",
+      "embedding_id": "2e50cc2e-3d2d-47df-bd9f-90c7b2237ac6"
+    },
+    "96": {
+      "person_id": "person_rajkummar_rao_b1b5d6cf",
+      "embedding_id": "e5221125-b7c7-4a6e-aa90-d13176366e23"
+    },
+    "97": {
+      "person_id": "person_ranbir_kapoor_2c7bbca9",
+      "embedding_id": "7c7e79c8-2767-4c0c-a3af-0978842f6e5f"
+    },
+    "98": {
+      "person_id": "person_ranbir_kapoor_2c7bbca9",
+      "embedding_id": "365ba72f-4163-4cf1-addf-71ab5b70b7c7"
+    },
+    "99": {
+      "person_id": "person_ranbir_kapoor_2c7bbca9",
+      "embedding_id": "39e2d0cf-944e-4b2b-a0c0-e1358c6bc248"
+    },
+    "100": {
+      "person_id": "person_rani_mukerji_406ca36a",
+      "embedding_id": "5e8e719a-4a1c-40c2-8876-ea8b239a3b1f"
+    },
+    "101": {
+      "person_id": "person_rani_mukerji_406ca36a",
+      "embedding_id": "58b70747-89b2-4a6e-aad5-ce5bc90c2846"
+    },
+    "102": {
+      "person_id": "person_ranveer_singh_c2a7587d",
+      "embedding_id": "d9f274ec-67de-4a4a-9f6f-a1e1220e2728"
+    },
+    "103": {
+      "person_id": "person_ranveer_singh_c2a7587d",
+      "embedding_id": "89015fef-eef2-4e82-bf56-b5f46e240735"
+    },
+    "104": {
+      "person_id": "person_rekha_f688cd8f",
+      "embedding_id": "1c3d4379-38b5-4f0e-8871-58455508ba0e"
+    },
+    "105": {
+      "person_id": "person_rekha_f688cd8f",
+      "embedding_id": "832f7a21-5e79-4362-8d7e-fab20a353926"
+    },
+    "106": {
+      "person_id": "person_rohit_sharma_8e4b5bd9",
+      "embedding_id": "fa18621e-b2c8-44c5-9a96-a3280420450e"
+    },
+    "107": {
+      "person_id": "person_rohit_sharma_8e4b5bd9",
+      "embedding_id": "9be2e4e4-016a-4465-9c30-f20826229b64"
+    },
+    "108": {
+      "person_id": "person_rohit_sharma_8e4b5bd9",
+      "embedding_id": "a273e005-9181-42b9-bcc9-465cd5355d0e"
+    },
+    "109": {
+      "person_id": "person_sachin_tendulkar_d1d428a1",
+      "embedding_id": "4a704a31-4dfd-4ce9-b066-8e18e275abdd"
+    },
+    "110": {
+      "person_id": "person_sachin_tendulkar_d1d428a1",
+      "embedding_id": "8fb1f7d5-8391-4641-9bc3-a729aa37bbac"
+    },
+    "111": {
+      "person_id": "person_saina_nehwal_fb360967",
+      "embedding_id": "42880b33-58dc-45ff-b77d-7b23976cf0dc"
+    },
+    "112": {
+      "person_id": "person_saina_nehwal_fb360967",
+      "embedding_id": "8e05adfc-d519-4cb8-95b8-5627b6477c19"
+    },
+    "113": {
+      "person_id": "person_saina_nehwal_fb360967",
+      "embedding_id": "075e5778-1952-473e-a0aa-58167ab5f2d9"
+    },
+    "114": {
+      "person_id": "person_salman_khan_c1797ada",
+      "embedding_id": "ecab0f2f-7540-49dd-afe0-fe444f9c536c"
+    },
+    "115": {
+      "person_id": "person_salman_khan_c1797ada",
+      "embedding_id": "6470cc57-da31-4b57-8658-24751ea920ba"
+    },
+    "116": {
+      "person_id": "person_salman_khan_c1797ada",
+      "embedding_id": "566b882f-5e0b-479c-9a50-a13ddda10638"
+    },
+    "117": {
+      "person_id": "person_sania_mirza_7781480f",
+      "embedding_id": "156f4736-7326-47ae-9198-87b092a010b0"
+    },
+    "118": {
+      "person_id": "person_sania_mirza_7781480f",
+      "embedding_id": "debb87ab-5168-4451-a09b-3fbb7b566565"
+    },
+    "119": {
+      "person_id": "person_sania_mirza_7781480f",
+      "embedding_id": "ea11021e-497c-45a2-9dec-57065db858ff"
+    },
+    "120": {
+      "person_id": "person_shah_rukh_khan_4ba1b037",
+      "embedding_id": "b7058995-8856-4a33-b89c-77840a9de144"
+    },
+    "121": {
+      "person_id": "person_shah_rukh_khan_4ba1b037",
+      "embedding_id": "4b5b96ff-2641-4b1b-9c7f-d09d90bd6dc9"
+    },
+    "122": {
+      "person_id": "person_shah_rukh_khan_4ba1b037",
+      "embedding_id": "060e12d4-9ef3-4bf5-b7c0-24949e6ebeb8"
+    },
+    "123": {
+      "person_id": "person_shubham_0b8d6303",
+      "embedding_id": "170c69ce-c539-458f-a8df-6380dbe86cba"
+    },
+    "124": {
+      "person_id": "person_shubham_0b8d6303",
+      "embedding_id": "424e5096-1853-4983-9f59-1c0d661e9726"
+    },
+    "125": {
+      "person_id": "person_shubham_0b8d6303",
+      "embedding_id": "bab4090b-fbac-43cb-a2de-08e7da308e3a"
+    },
+    "126": {
+      "person_id": "person_sonam_kapoor_492cfa20",
+      "embedding_id": "2a4edd82-0991-47d3-bb56-7b285a2a2134"
+    },
+    "127": {
+      "person_id": "person_sonam_kapoor_492cfa20",
+      "embedding_id": "e4a2767c-2fb3-452f-92ea-dde6e7d394ea"
+    },
+    "128": {
+      "person_id": "person_sonam_kapoor_492cfa20",
+      "embedding_id": "a07bf599-f67b-40c1-83f1-5c68981a2b04"
+    },
+    "129": {
+      "person_id": "person_sourav_ganguly_6ec858d3",
+      "embedding_id": "8dd80a15-af9c-4233-926d-537a7cc1d32e"
+    },
+    "130": {
+      "person_id": "person_sourav_ganguly_6ec858d3",
+      "embedding_id": "01dceb1e-d019-42f2-89a4-3a12a30fa626"
+    },
+    "131": {
+      "person_id": "person_sourav_ganguly_6ec858d3",
+      "embedding_id": "b7140b90-4029-4a4d-b8e4-5fb4844d2a08"
+    },
+    "132": {
+      "person_id": "person_sridevi_f57f810d",
+      "embedding_id": "fbc9c847-123c-4c44-96aa-349e59a9f174"
+    },
+    "133": {
+      "person_id": "person_sridevi_f57f810d",
+      "embedding_id": "247a85f0-f368-4b67-962b-f0678107c9a0"
+    },
+    "134": {
+      "person_id": "person_sridevi_f57f810d",
+      "embedding_id": "b890efc3-74fc-4728-86a9-05593617c544"
+    },
+    "135": {
+      "person_id": "person_sunil_chhetri_f44c6c5f",
+      "embedding_id": "82ee6edc-61e1-461f-9ec4-ae1b7ba191b3"
+    },
+    "136": {
+      "person_id": "person_sunil_chhetri_f44c6c5f",
+      "embedding_id": "0e057560-ae1b-44f1-b682-f8f8397f4a80"
+    },
+    "137": {
+      "person_id": "person_sunil_chhetri_f44c6c5f",
+      "embedding_id": "b94e8bcb-7fa1-4858-872e-f32570ab828f"
+    },
+    "138": {
+      "person_id": "person_suraj_c8411dcb",
+      "embedding_id": "840b86b2-2dce-454a-9404-3c11576e4398"
+    },
+    "139": {
+      "person_id": "person_suraj_c8411dcb",
+      "embedding_id": "644b0d01-ea29-4a13-923f-d14ae31dc5db"
+    },
+    "140": {
+      "person_id": "person_suraj_c8411dcb",
+      "embedding_id": "8439e93d-d05c-4d5f-be2a-9f956b58286d"
+    },
+    "141": {
+      "person_id": "person_sushmita_sen_0278201c",
+      "embedding_id": "13be80c4-4e77-41ed-a7d9-3e2e115801e1"
+    },
+    "142": {
+      "person_id": "person_sushmita_sen_0278201c",
+      "embedding_id": "6fb5b649-b483-4b92-a042-d67f16c1bbd0"
+    },
+    "143": {
+      "person_id": "person_sushmita_sen_0278201c",
+      "embedding_id": "0d0d1109-12c7-40b7-ab1d-2b8872a1d4ee"
+    },
+    "144": {
+      "person_id": "person_vidya_balan_32bcb545",
+      "embedding_id": "4894e490-fc72-493a-b9d1-dd1b54cd4913"
+    },
+    "145": {
+      "person_id": "person_vidya_balan_32bcb545",
+      "embedding_id": "806b45ac-9353-4d37-9600-047619e1cc90"
+    },
+    "146": {
+      "person_id": "person_vidya_balan_32bcb545",
+      "embedding_id": "c8d66cf7-6106-45b1-b05b-5b3ec0284991"
+    },
+    "147": {
+      "person_id": "person_vijay_aa4a909a",
+      "embedding_id": "88ebdc65-ae8c-4970-807d-dd6a8e4255e0"
+    },
+    "148": {
+      "person_id": "person_vijay_aa4a909a",
+      "embedding_id": "b627f3ab-c903-4958-bdd5-e05b30fd624e"
+    },
+    "149": {
+      "person_id": "person_vijay_aa4a909a",
+      "embedding_id": "5f5cade9-97a1-4736-b18e-f9e0f7c1250a"
+    },
+    "150": {
+      "person_id": "person_vipin_2abe8aa4",
+      "embedding_id": "f092b6c9-44ad-4add-98aa-08cf1ae885da"
+    },
+    "151": {
+      "person_id": "person_vipin_2abe8aa4",
+      "embedding_id": "5945624c-889f-4882-b09e-f870587fcaba"
+    },
+    "152": {
+      "person_id": "person_vipin_2abe8aa4",
+      "embedding_id": "457452ed-2540-4703-9bba-527ad176510c"
+    },
+    "153": {
+      "person_id": "person_vipin_2abe8aa4",
+      "embedding_id": "22980361-6321-4162-b864-47446977d0c9"
+    },
+    "154": {
+      "person_id": "person_virat_kohli_8873d85c",
+      "embedding_id": "c51c6de7-5c1e-4d5b-a48d-0c670fdd1281"
+    },
+    "155": {
+      "person_id": "person_virat_kohli_8873d85c",
+      "embedding_id": "074f2895-df7b-4529-a917-8a58df6654c5"
+    },
+    "156": {
+      "person_id": "person_virat_kohli_8873d85c",
+      "embedding_id": "ff22853a-52bb-429f-8e19-ca756fdd5c18"
+    }
+  },
+  "person_embeddings": {
+    "person_aamir_khan_644c4dfe": [
+      0,
+      1,
+      2
+    ],
+    "person_aishwarya_rai_9b8cc819": [
+      3,
+      4,
+      5
+    ],
+    "person_ajay_devgn_50266865": [
+      6,
+      7,
+      8
+    ],
+    "person_akshay_kumar_cfe73908": [
+      9,
+      10,
+      11
+    ],
+    "person_alia_bhatt_b7dbb969": [
+      12,
+      13,
+      14
+    ],
+    "person_allu_arjun_1f72ac3a": [
+      15,
+      16,
+      17
+    ],
+    "person_amit_shah_aeebf403": [
+      18,
+      19,
+      20
+    ],
+    "person_amitabh_bachchan_131fb2e1": [
+      21,
+      22,
+      23
+    ],
+    "person_anushka_sharma_50550427": [
+      24,
+      25,
+      26
+    ],
+    "person_arvind_kejriwal_bfbf129b": [
+      27,
+      28,
+      29
+    ],
+    "person_ayushmann_khurrana_2a3be3a1": [
+      30,
+      31,
+      32
+    ],
+    "person_deepika_padukone_50c8a6ef": [
+      33,
+      34,
+      35
+    ],
+    "person_dhanush_1c398c0d": [
+      36,
+      37,
+      38
+    ],
+    "person_hardik_pandya_5d544643": [
+      39,
+      40
+    ],
+    "person_hrithik_roshan_43b17db4": [
+      41,
+      42,
+      43
+    ],
+    "person_jasprit_bumrah_53de25ed": [
+      44,
+      45,
+      46
+    ],
+    "person_kamal_haasan_27b0ba42": [
+      47,
+      48,
+      49
+    ],
+    "person_kareena_kapoor_28712328": [
+      50,
+      51,
+      52
+    ],
+    "person_katrina_kaif_a6d1f275": [
+      53,
+      54,
+      55
+    ],
+    "person_madhuri_dixit_0de6ccea": [
+      56,
+      57,
+      58
+    ],
+    "person_mary_kom_16f518a8": [
+      59,
+      60
+    ],
+    "person_mayank_6643dd91": [
+      61,
+      62,
+      63
+    ],
+    "person_ms_dhoni_22a940b7": [
+      64,
+      65,
+      66
+    ],
+    "person_narendra_modi_6e27d332": [
+      67,
+      68,
+      69
+    ],
+    "person_neeraj_chopra_04ca71a2": [
+      70,
+      71,
+      72
+    ],
+    "person_prabhas_4c902129": [
+      73,
+      74,
+      75
+    ],
+    "person_pratham_7387a2e4": [
+      76,
+      77,
+      78
+    ],
+    "person_priyanka_chopra_6091be1d": [
+      79,
+      80,
+      81
+    ],
+    "person_pv_sindhu_3dafa711": [
+      82,
+      83,
+      84
+    ],
+    "person_rahul_dravid_da3142a4": [
+      85,
+      86,
+      87
+    ],
+    "person_rahul_gandhi_af2d570f": [
+      88,
+      89,
+      90
+    ],
+    "person_rajinikanth_fc586da0": [
+      91,
+      92,
+      93
+    ],
+    "person_rajkummar_rao_b1b5d6cf": [
+      94,
+      95,
+      96
+    ],
+    "person_ranbir_kapoor_2c7bbca9": [
+      97,
+      98,
+      99
+    ],
+    "person_rani_mukerji_406ca36a": [
+      100,
+      101
+    ],
+    "person_ranveer_singh_c2a7587d": [
+      102,
+      103
+    ],
+    "person_rekha_f688cd8f": [
+      104,
+      105
+    ],
+    "person_rohit_sharma_8e4b5bd9": [
+      106,
+      107,
+      108
+    ],
+    "person_sachin_tendulkar_d1d428a1": [
+      109,
+      110
+    ],
+    "person_saina_nehwal_fb360967": [
+      111,
+      112,
+      113
+    ],
+    "person_salman_khan_c1797ada": [
+      114,
+      115,
+      116
+    ],
+    "person_sania_mirza_7781480f": [
+      117,
+      118,
+      119
+    ],
+    "person_shah_rukh_khan_4ba1b037": [
+      120,
+      121,
+      122
+    ],
+    "person_shubham_0b8d6303": [
+      123,
+      124,
+      125
+    ],
+    "person_sonam_kapoor_492cfa20": [
+      126,
+      127,
+      128
+    ],
+    "person_sourav_ganguly_6ec858d3": [
+      129,
+      130,
+      131
+    ],
+    "person_sridevi_f57f810d": [
+      132,
+      133,
+      134
+    ],
+    "person_sunil_chhetri_f44c6c5f": [
+      135,
+      136,
+      137
+    ],
+    "person_suraj_c8411dcb": [
+      138,
+      139,
+      140
+    ],
+    "person_sushmita_sen_0278201c": [
+      141,
+      142,
+      143
+    ],
+    "person_vidya_balan_32bcb545": [
+      144,
+      145,
+      146
+    ],
+    "person_vijay_aa4a909a": [
+      147,
+      148,
+      149
+    ],
+    "person_vipin_2abe8aa4": [
+      150,
+      151,
+      152,
+      153
+    ],
+    "person_virat_kohli_8873d85c": [
+      154,
+      155,
+      156
+    ]
+  },
+  "total_vectors": 157
+}

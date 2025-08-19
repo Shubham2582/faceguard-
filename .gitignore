@@ -100,17 +100,23 @@ models/
 *.trt
 *.engine
 
-# Data
-data/
+# Data - Allow critical files
+# data/  # Commented out to allow known_faces and gallery_index
 datasets/
-images/
-videos/
-*.jpg
-*.jpeg
-*.png
+# images/  # Allow images for face recognition
+# videos/  # Allow test videos
+# *.jpg   # Allow jpg images for enrolled persons
+# *.jpeg  # Allow jpeg images for enrolled persons
+# *.png   # Allow png images for enrolled persons
 *.mp4
 *.avi
 *.mov
+
+# Exclude temporary and upload directories
+data/video_frames/
+data/video_uploads/
+storage/temp/
+storage/uploads/
 
 # Secrets
 .secrets/

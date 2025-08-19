@@ -22,18 +22,33 @@
 ### Core Services
 1. **Face Recognition Service** (Port 8002) - FULLY WORKING
    - InsightFace buffalo_l models (RetinaFace + ArcFace)
-   - FAISS similarity search
+   - FAISS similarity search (1,570 vectors loaded)
    - GPU-accelerated processing
+   - 99.9% recognition confidence for enrolled persons
    
 2. **Core Data Service** (Port 8001)
    - PostgreSQL database integration
-   - Person management
+   - Person management (54 enrolled persons)
    - Video processing capabilities
+   - WebSocket support for real-time updates
 
 3. **Notification Service** (Port 8003/8004)
    - Real-time alerts
    - WebSocket integration
    - Email/SMS delivery
+   - Person-specific notifications
+
+4. **API Gateway** (Port 3000) - TypeScript/Node.js
+   - Circuit breaker pattern
+   - Rate limiting
+   - Service orchestration
+   - Health monitoring
+
+5. **Camera Stream Service** (Port 8003)
+   - Real-time camera integration
+   - Frame capture and processing
+   - Recognition engine integration
+   - Event publishing
 
 ## Quick Start
 
@@ -59,6 +74,13 @@ with open('test_image.jpg', 'rb') as f:
     response = requests.post('http://localhost:8002/process/image/', files=files)
     print(response.json())
 ```
+
+## Enrolled Persons Database
+
+The system includes 54 enrolled persons (celebrities and team members) with images stored in `data/known_faces/`. Key enrolled persons include:
+- Team Members: Shubham, Vipin, Suraj, Pratham, Mayank
+- Celebrities: Amit Shah, Shah Rukh Khan, Virat Kohli, and 49 others
+- Total embeddings: 157 across all persons
 
 ## Critical Files to Preserve
 
