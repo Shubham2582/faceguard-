@@ -154,3 +154,5 @@ Thumbs.db
 # Performance & monitoring
 *.prof
 *.trace
+
+.mcp.json
