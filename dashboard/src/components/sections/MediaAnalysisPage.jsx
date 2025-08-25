@@ -236,12 +236,12 @@ export const MediaAnalysisPage = ({ onNavigate }) => {
   return (
     <>
       {/* Hero Section */}
-      <div className="pt-24 pb-20">
-        <div className="text-center mb-16">
-          <div className="inline-block bg-purple-600/10 border border-purple-600/20 text-purple-400 px-4 py-2 rounded-full text-xs font-medium mb-10 tracking-wider">
+      <div className="pt-4 pb-12">
+        <div className="text-center mb-10">
+          <div className="inline-block bg-purple-600/10 border border-purple-600/20 text-purple-400 px-4 py-2 rounded-full text-xs font-medium mb-6 tracking-wider">
             MEDIA ANALYSIS
           </div>
-          <h1 className="text-5xl lg:text-6xl font-normal mb-8 tracking-tight leading-tight">
+          <h1 className="text-5xl lg:text-6xl font-normal mb-5 tracking-tight leading-tight">
             Upload & Analyze <span className="italic text-zinc-600 font-light">Media</span>
           </h1>
           <p className="text-zinc-500 text-lg max-w-4xl mx-auto leading-relaxed">

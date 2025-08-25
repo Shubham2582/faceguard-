@@ -136,13 +136,13 @@ export const AnalyticsPage = ({ onNavigate }) => {
   return (
     <>
       {/* Hero Section */}
-      <div className="pt-24 pb-20">
-        <div className="text-center mb-20">
-          <div className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600/10 to-blue-600/10 border border-purple-600/20 text-purple-400 px-6 py-3 rounded-full text-sm font-medium mb-12 tracking-wider backdrop-blur-sm hover:bg-purple-600/20 transition-colors duration-300">
+      <div className="pt-4 pb-12">
+        <div className="text-center mb-12">
+          <div className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600/10 to-blue-600/10 border border-purple-600/20 text-purple-400 px-6 py-3 rounded-full text-sm font-medium mb-8 tracking-wider backdrop-blur-sm hover:bg-purple-600/20 transition-colors duration-300">
             <Activity className="h-4 w-4" />
             ANALYTICS DASHBOARD
           </div>
-          <h1 className="text-6xl lg:text-7xl font-extralight mb-10 tracking-tighter leading-tight">
+          <h1 className="text-6xl lg:text-7xl font-extralight mb-6 tracking-tighter leading-tight">
             Recognition <span className="italic text-transparent bg-gradient-to-r from-zinc-400 to-zinc-600 bg-clip-text font-thin">Analytics</span>
           </h1>
           <p className="text-zinc-400 text-xl max-w-5xl mx-auto leading-relaxed font-light">
@@ -150,7 +150,7 @@ export const AnalyticsPage = ({ onNavigate }) => {
           </p>
           
           {/* Decorative elements */}
-          <div className="flex justify-center mt-12 space-x-1">
+          <div className="flex justify-center mt-8 space-x-1">
             <div className="w-2 h-2 bg-purple-500/40 rounded-full animate-pulse" />
             <div className="w-2 h-2 bg-blue-500/40 rounded-full animate-pulse" style={{animationDelay: '0.2s'}} />
             <div className="w-2 h-2 bg-emerald-500/40 rounded-full animate-pulse" style={{animationDelay: '0.4s'}} />

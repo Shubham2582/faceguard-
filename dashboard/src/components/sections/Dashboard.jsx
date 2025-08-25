@@ -22,12 +22,12 @@ export const Dashboard = ({ onNavigate }) => {
   return (
     <>
       {/* Hero Section with improved spacing */}
-      <div className="pt-24 pb-20">
-        <div className="text-center mb-16">
-          <div className="inline-block bg-blue-600/10 border border-blue-600/20 text-blue-400 px-4 py-2 rounded-full text-xs font-medium mb-10 tracking-wider">
+      <div className="pt-4 pb-12">
+        <div className="text-center mb-10">
+          <div className="inline-block bg-blue-600/10 border border-blue-600/20 text-blue-400 px-4 py-2 rounded-full text-xs font-medium mb-6 tracking-wider">
             SURVEILLANCE
           </div>
-          <h1 className="text-5xl lg:text-6xl font-normal mb-8 tracking-tight leading-tight">
+          <h1 className="text-5xl lg:text-6xl font-normal mb-5 tracking-tight leading-tight">
             Surveillance Dashboard <span className="italic text-zinc-600 font-light">Overview</span>
           </h1>
           <p className="text-zinc-500 text-lg max-w-4xl mx-auto leading-relaxed">
@@ -36,7 +36,7 @@ export const Dashboard = ({ onNavigate }) => {
         </div>
 
         {/* Interactive Process Showcase with more spacing */}
-        <div className="max-w-6xl mx-auto mb-20">
+        <div className="max-w-6xl mx-auto mb-12">
           <SurveillanceShowcase />
         </div>
       </div>

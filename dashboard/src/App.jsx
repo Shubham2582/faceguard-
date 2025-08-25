@@ -75,7 +75,7 @@ function App() {
         <Header />
 
         {/* Page Content */}
-        <main className="px-8 py-12">
+        <main className="px-8 py-4">
           {renderCurrentPage()}
         </main>
 
